@@ -6,11 +6,7 @@
     <description>Recent content in Work on Ubuntu Software - Enterprise software development.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
-    
-	<atom:link href="www.example.com/work/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="www.example.com/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Disease Tracking Project</title>
       <link>www.example.com/work/ecdc-disease-tracking/</link>
@@ -20,8 +16,9 @@
       <description>The European Centre for Disease Prevention and Control (ECDC) is an independent agency of the European Union (EU) whose mission is to strengthen Europe&amp;rsquo;s defences against infectious diseases.
 ECDC required a system for tracking disease reporting within the European Union, and to collaborate with the other CDC centers worldwide.
 Highlights Security
-  [LDAP] (https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) based integration into their existing Security systems.
-  Security review of the system to access risks.</description>
+[LDAP] (https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) based integration into their existing Security systems.
+Security review of the system to access risks.
+Hardening against nonce replay attacks and signature forgery.</description>
     </item>
     
     <item>
@@ -45,7 +42,7 @@ We are currently looking for new partners that wish to leverage the system, so f
       <description>BG Group plc was a British multinational oil and gas company headquartered in Reading, United Kingdom, with operations in 25 countries across Africa, Asia, Australasia, Europe, North America and South America.
 They required a real time Trading Portal for the spot price gas market with a back-office system to track the gas production sites and feed into their reporting division.
 Highlights GUI
-  Trading portal with dynamic real time updates running on large format Screens in the Trading Hall.</description>
+Trading portal with dynamic real time updates running on large format Screens in the Trading Hall.</description>
     </item>
     
     <item>

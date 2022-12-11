@@ -6,11 +6,7 @@
     <description>Recent content in Services on Ubuntu Software - Enterprise software development.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
-    
-	<atom:link href="www.example.com/services/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="www.example.com/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ideas</title>
       <link>www.example.com/services/ideas/</link>
@@ -18,12 +14,11 @@
       
       <guid>www.example.com/services/ideas/</guid>
       <description>Helping you confront the unknown and move forward. So that you can experiment and move fast, we use technologies and practices that adapt as we go.
-  Digital strategy &amp;amp; service design.
-  Experience design.
-  Lean product development.
-  Portfolio design &amp;amp; management.
-  Customer research &amp;amp; testing.
-  </description>
+Digital strategy &amp;amp; service design.
+Experience design.
+Lean product development.
+Portfolio design &amp;amp; management.
+Customer research &amp;amp; testing.</description>
     </item>
     
     <item>
@@ -33,12 +28,11 @@
       
       <guid>www.example.com/services/innovate/</guid>
       <description>Technology increasingly is the business. Disrupt yourself or be disrupted. For over 20 years we have been helping our clients think bigger and deliver better.
-  Agile delivery leadership.
-  Lean Enterprise/ Lean organisation.
-  Organisational transformation.
-  Rapid prototyping.
-  Innovation labs.
-  </description>
+Agile delivery leadership.
+Lean Enterprise/ Lean organisation.
+Organisational transformation.
+Rapid prototyping.
+Innovation labs.</description>
     </item>
     
     <item>

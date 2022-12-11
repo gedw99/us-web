@@ -1,7 +1,7 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
 title = "Ubuntu Software - Enterprise software development."
-themesDir = "/Users/apple/workspace/go/src/github.com/joeblew99"
+themesDir = "/Users/apple/workspace/go/src/github.com/gedw99/us-web/"
 theme = "hugo-hero-theme"
 
 [params]

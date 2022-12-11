@@ -6,11 +6,7 @@
     <description>Recent content in Home on Ubuntu Software - Enterprise software development.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
-    
-	<atom:link href="www.example.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="www.example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Disease Tracking Project</title>
       <link>www.example.com/work/ecdc-disease-tracking/</link>
@@ -20,8 +16,9 @@
       <description>The European Centre for Disease Prevention and Control (ECDC) is an independent agency of the European Union (EU) whose mission is to strengthen Europe&amp;rsquo;s defences against infectious diseases.
 ECDC required a system for tracking disease reporting within the European Union, and to collaborate with the other CDC centers worldwide.
 Highlights Security
-  [LDAP] (https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) based integration into their existing Security systems.
-  Security review of the system to access risks.</description>
+[LDAP] (https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) based integration into their existing Security systems.
+Security review of the system to access risks.
+Hardening against nonce replay attacks and signature forgery.</description>
     </item>
     
     <item>
@@ -31,12 +28,11 @@ Highlights Security
       
       <guid>www.example.com/services/ideas/</guid>
       <description>Helping you confront the unknown and move forward. So that you can experiment and move fast, we use technologies and practices that adapt as we go.
-  Digital strategy &amp;amp; service design.
-  Experience design.
-  Lean product development.
-  Portfolio design &amp;amp; management.
-  Customer research &amp;amp; testing.
-  </description>
+Digital strategy &amp;amp; service design.
+Experience design.
+Lean product development.
+Portfolio design &amp;amp; management.
+Customer research &amp;amp; testing.</description>
     </item>
     
     <item>
@@ -60,7 +56,7 @@ We are currently looking for new partners that wish to leverage the system, so f
       <description>BG Group plc was a British multinational oil and gas company headquartered in Reading, United Kingdom, with operations in 25 countries across Africa, Asia, Australasia, Europe, North America and South America.
 They required a real time Trading Portal for the spot price gas market with a back-office system to track the gas production sites and feed into their reporting division.
 Highlights GUI
-  Trading portal with dynamic real time updates running on large format Screens in the Trading Hall.</description>
+Trading portal with dynamic real time updates running on large format Screens in the Trading Hall.</description>
     </item>
     
     <item>
@@ -79,7 +75,7 @@ They required a system to track experimental research. This required bridging le
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>www.example.com/about/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -98,12 +94,11 @@ They required a system to track experimental research. This required bridging le
       
       <guid>www.example.com/services/innovate/</guid>
       <description>Technology increasingly is the business. Disrupt yourself or be disrupted. For over 20 years we have been helping our clients think bigger and deliver better.
-  Agile delivery leadership.
-  Lean Enterprise/ Lean organisation.
-  Organisational transformation.
-  Rapid prototyping.
-  Innovation labs.
-  </description>
+Agile delivery leadership.
+Lean Enterprise/ Lean organisation.
+Organisational transformation.
+Rapid prototyping.
+Innovation labs.</description>
     </item>
     
     <item>

@@ -6,18 +6,14 @@
     <description>Recent content in Pages on Ubuntu Software - Enterprise software development.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
-    
-	<atom:link href="www.example.com/pages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="www.example.com/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>www.example.com/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>www.example.com/about/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>

@@ -9,7 +9,7 @@ MAKE_FSPATH=$(PWD)/make
 include $(MAKE_FSPATH)/help.mk
 
 # TODO make this relect based :) cant be bother right now to fix...
-GIT_REPO_URL=https://github.com/gedw99/sc-make-examples
+GIT_REPO_URL=https://github.com/gedw99/us-web
 
 SC_MAKE_BIN_FSPATH=$(GOPATH)/bin
 SC_MAKE_BIN_NAME=sc-make
@@ -17,7 +17,7 @@ SC_MAKE_BIN=$(SC_MAKE_BIN_FSPATH)/$(SC_MAKE_BIN_NAME)
 
 
 
-THEME_LIB=github.com/gerardwebb/hugo-hero-theme
+THEME_LIB=github.com/gedw99/us-hugo-hero-theme
 # forked from: https://github.com/zerostaticthemes/hugo-hero-theme
 
 THEME_FSPATH=$(PWD)/hugo-hero-theme
@@ -75,12 +75,17 @@ git-push:
 	git push 
 	open $(GIT_REPO_URL)
 	
+### THEME
 
-dep:
+## theme-dep:
+theme-dep:
 	# hugo theme
 	git clone https://$(THEME_LIB) $(THEME_FSPATH)
-dep-delete:
+## theme-dep-delete
+theme-dep-delete:
 	rm -rf $(THEME_FSPATH)
+
+### SVG
 
 svg-open:
 	open https://svg-edit.github.io/svgedit/releases/latest/editor/svg-editor.html
@@ -123,15 +128,17 @@ inject:
 	cp _inject/mine/sub-footer.html $(THEME_FSPATH)/layouts/partials
 
 	
-
-hugo-build: ## hugo-build
+## hugo-build
+hugo-build:
 	hugo
 
-hugo-run: ## hugo-run
+## hugo-run
+hugo-run:
 	hugo server -F
 	#if this doesn't work, try 'hugo server -D'
 
-hugo-open: ## hugo-open
+## hugo-open
+hugo-open: 
 	open http://localhost:1313/
 
 ### deploy ( not using )
