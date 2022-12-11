@@ -1,0 +1,43 @@
+baseURL = "www.example.com"
+languageCode = "en-us"
+title = "Ubuntu Software - Enterprise software development."
+themesDir = "/Users/apple/workspace/go/src/github.com/joeblew99"
+theme = "hugo-hero-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Ubuntu Software is a multipurpose software development company with experience building Mobile, Desktop and Server systems for real time information and collaboration."
+    meta_og_title = "Ubuntu Software Corporate web site"
+    meta_og_type = "website"
+    meta_og_url = "https://www.ubuntusoftware.net"
+    #meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Ubuntu Software is a multipurpose software development company with experience building Mobile, Desktop and Server systems for real time information and collaboration."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@ubuntusoftware"
+    meta_twitter_creator = "@ubuntusoftware"
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

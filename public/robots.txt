@@ -1,0 +1,9 @@
+# All robots allowed
+User-agent: *
+Disallow: /pages/
+Disallow: /categories/
+Disallow: /work/syngenta-agro/
+Disallow: /work/ecdc-disease-tracking/
+
+# Sitemap files
+Sitemap: https://www.ubuntusoftware.net/sitemap.xml

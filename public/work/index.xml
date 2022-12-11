@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Ubuntu Software - Enterprise software development.</title>
+    <link>www.example.com/work/</link>
+    <description>Recent content in Work on Ubuntu Software - Enterprise software development.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="www.example.com/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disease Tracking Project</title>
+      <link>www.example.com/work/ecdc-disease-tracking/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>www.example.com/work/ecdc-disease-tracking/</guid>
+      <description>The European Centre for Disease Prevention and Control (ECDC) is an independent agency of the European Union (EU) whose mission is to strengthen Europe&amp;rsquo;s defences against infectious diseases.
+ECDC required a system for tracking disease reporting within the European Union, and to collaborate with the other CDC centers worldwide.
+Highlights Security
+  [LDAP] (https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) based integration into their existing Security systems.
+  Security review of the system to access risks.</description>
+    </item>
+    
+    <item>
+      <title>Modern Hospital Software</title>
+      <link>www.example.com/work/modern-hospital/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>www.example.com/work/modern-hospital/</guid>
+      <description>Patients, Doctors, Hospitals and Researchers all connected in real time to maximise health outcomes.
+Connect Legacy systems with new emerging standards like [FHIR] (https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources), allowing the old systems to be brought into Modern Software practices.
+The platform, called Afira, is designed for the Medical / Health sector and going through beta testing now. We are currently working with the Germany Ministry of Health and other government and standards bodies.
+We are currently looking for new partners that wish to leverage the system, so feel free to contact us for a chat.</description>
+    </item>
+    
+    <item>
+      <title>BG Group gas project</title>
+      <link>www.example.com/work/bg-group-gas/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>www.example.com/work/bg-group-gas/</guid>
+      <description>BG Group plc was a British multinational oil and gas company headquartered in Reading, United Kingdom, with operations in 25 countries across Africa, Asia, Australasia, Europe, North America and South America.
+They required a real time Trading Portal for the spot price gas market with a back-office system to track the gas production sites and feed into their reporting division.
+Highlights GUI
+  Trading portal with dynamic real time updates running on large format Screens in the Trading Hall.</description>
+    </item>
+    
+    <item>
+      <title>Syngenta agro-chemical project</title>
+      <link>www.example.com/work/syngenta-agro/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>www.example.com/work/syngenta-agro/</guid>
+      <description>Syngenta is a global business operating in the agro-chemical sector, with its headquarters in Switzerland. It produces and sells crop protection products, seeds, and products for lawn and gardens. It is active on a vertically-integrated basis in the research, development, manufacture and marketing of a wide range of crop protection products and seeds.
+They required a system to track experimental research. This required bridging legacy and new systems in a continuous streaming platform whereby all systems push updates into the other systems.</description>
+    </item>
+    
+  </channel>
+</rss>

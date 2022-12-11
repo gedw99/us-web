@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Ubuntu Software - Enterprise software development.</title>
+    <link>www.example.com/services/</link>
+    <description>Recent content in Services on Ubuntu Software - Enterprise software development.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="www.example.com/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ideas</title>
+      <link>www.example.com/services/ideas/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>www.example.com/services/ideas/</guid>
+      <description>Helping you confront the unknown and move forward. So that you can experiment and move fast, we use technologies and practices that adapt as we go.
+  Digital strategy &amp;amp; service design.
+  Experience design.
+  Lean product development.
+  Portfolio design &amp;amp; management.
+  Customer research &amp;amp; testing.
+  </description>
+    </item>
+    
+    <item>
+      <title>Innovate</title>
+      <link>www.example.com/services/innovate/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>www.example.com/services/innovate/</guid>
+      <description>Technology increasingly is the business. Disrupt yourself or be disrupted. For over 20 years we have been helping our clients think bigger and deliver better.
+  Agile delivery leadership.
+  Lean Enterprise/ Lean organisation.
+  Organisational transformation.
+  Rapid prototyping.
+  Innovation labs.
+  </description>
+    </item>
+    
+    <item>
+      <title>Technical Systems Advisory</title>
+      <link>www.example.com/services/tech-advisory/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>www.example.com/services/tech-advisory/</guid>
+      <description>Often projects need external advice and workshops to help them in various ways. Systems architecture is one of the most valuable things a team can have if they are not sure what approach they need.
+Team coaching This can help the techncial team to learn established patterns and practices to make the techncial aspects run smoother and lower risks and time.
+Business goal analysis Each project is different and often has a goal in general but needs help in refining those goals from the business perspective into tangible technical architecture.</description>
+    </item>
+    
+  </channel>
+</rss>
